@@ -1,0 +1,8 @@
+This is a placeholder file for the images directory.
+
+To use the website:
+1. Add your photos to this 'images' folder
+2. Name them photo1.jpg, photo2.jpg, etc. to match the script.js file
+3. For best results, use high-quality photos in landscape or square format
+
+Feel free to add as many photos as you'd like and update the script.js file accordingly! 
